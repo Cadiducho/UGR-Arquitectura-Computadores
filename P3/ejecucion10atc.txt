@@ -1,0 +1,32 @@
+num threads= 1
+Resultado:
+200, 200
+Tiempo: 0.002794
+Resultado:
+3000, 3000
+Tiempo: 31.612324
+num threads= 2
+Resultado:
+200, 200
+Tiempo: 0.001431
+Resultado:
+3000, 3000
+Tiempo: 15.609917
+num threads= 3
+Resultado:
+200, 200
+Tiempo: 0.000979
+Resultado:
+3000, 3000
+Tiempo: 10.853009
+num threads= 4
+Resultado:
+200, 200
+Tiempo: 0.000735
+Resultado:
+3000, 3000
+Tiempo: 8.125173
+num threads= 5
+Resultado:
+200, 200
+Tiempo: 0.000598

@@ -1,0 +1,36 @@
+Static por defecto
+Resultado:
+0 1049954896 
+Tiempo: 0.013905
+Static chunk 1
+Resultado:
+0 1049954896 
+Tiempo: 0.054466
+Static chunk 64
+Resultado:
+0 1049954896 
+Tiempo: 0.026773
+Dynamic por defecto
+Resultado:
+0 1049954896 
+Tiempo: 0.293272
+Dynamic chunk 1
+Resultado:
+0 1049954896 
+Tiempo: 0.328785
+Dynamic chunk 64
+Resultado:
+0 1049954896 
+Tiempo: 0.017218
+Guided por defecto
+Resultado:
+0 1049954896 
+Tiempo: 0.043023
+Guided chunk 1
+Resultado:
+0 1049954896 
+Tiempo: 0.040364
+Guided chunk 64
+Resultado:
+0 1049954896 
+Tiempo: 0.020383

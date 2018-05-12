@@ -1,0 +1,48 @@
+num threads= 1
+Resultado:
+2000, 2000
+Tiempo: 9.001249
+num threads= 2
+Resultado:
+2000, 2000
+Tiempo: 4.651962
+num threads= 3
+Resultado:
+2000, 2000
+Tiempo: 3.259090
+num threads= 4
+Resultado:
+2000, 2000
+Tiempo: 2.493213
+num threads= 5
+Resultado:
+2000, 2000
+Tiempo: 2.030807
+num threads= 6
+Resultado:
+2000, 2000
+Tiempo: 1.706148
+num threads= 7
+Resultado:
+2000, 2000
+Tiempo: 1.458928
+num threads= 8
+Resultado:
+2000, 2000
+Tiempo: 1.276213
+num threads= 9
+Resultado:
+2000, 2000
+Tiempo: 1.141782
+num threads= 10
+Resultado:
+2000, 2000
+Tiempo: 1.019708
+num threads= 11
+Resultado:
+2000, 2000
+Tiempo: 1.404039
+num threads= 12
+Resultado:
+2000, 2000
+Tiempo: 1.283742

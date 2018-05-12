@@ -1,0 +1,48 @@
+num threads= 1
+Resultado:
+200, 200
+Tiempo: 0.002793
+num threads= 2
+Resultado:
+200, 200
+Tiempo: 0.001462
+num threads= 3
+Resultado:
+200, 200
+Tiempo: 0.000909
+num threads= 4
+Resultado:
+200, 200
+Tiempo: 0.000747
+num threads= 5
+Resultado:
+200, 200
+Tiempo: 0.000499
+num threads= 6
+Resultado:
+200, 200
+Tiempo: 0.000431
+num threads= 7
+Resultado:
+200, 200
+Tiempo: 0.000763
+num threads= 8
+Resultado:
+200, 200
+Tiempo: 0.000383
+num threads= 9
+Resultado:
+200, 200
+Tiempo: 0.000615
+num threads= 10
+Resultado:
+200, 200
+Tiempo: 0.000301
+num threads= 11
+Resultado:
+200, 200
+Tiempo: 0.000480
+num threads= 12
+Resultado:
+200, 200
+Tiempo: 0.000455

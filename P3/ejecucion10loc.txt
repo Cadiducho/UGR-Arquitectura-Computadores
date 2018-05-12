@@ -1,0 +1,56 @@
+num threads= 1
+Resultado:
+200, 200
+Tiempo: 0.001303
+Resultado:
+3000, 3000
+Tiempo: 7.382312
+num threads= 2
+Resultado:
+200, 200
+Tiempo: 0.000442
+Resultado:
+3000, 3000
+Tiempo: 3.909759
+num threads= 3
+Resultado:
+200, 200
+Tiempo: 0.000286
+Resultado:
+3000, 3000
+Tiempo: 2.412159
+num threads= 4
+Resultado:
+200, 200
+Tiempo: 0.000309
+Resultado:
+3000, 3000
+Tiempo: 1.826096
+num threads= 5
+Resultado:
+200, 200
+Tiempo: 0.000307
+Resultado:
+3000, 3000
+Tiempo: 2.584901
+num threads= 6
+Resultado:
+200, 200
+Tiempo: 0.000274
+Resultado:
+3000, 3000
+Tiempo: 2.485960
+num threads= 7
+Resultado:
+200, 200
+Tiempo: 0.000229
+Resultado:
+3000, 3000
+Tiempo: 2.852893
+num threads= 8
+Resultado:
+200, 200
+Tiempo: 0.000202
+Resultado:
+3000, 3000
+Tiempo: 4.358023
